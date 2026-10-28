@@ -1,0 +1,11 @@
+{
+  "org": "Textualize",
+  "repo": "textual-serve",
+  "versions": [
+    {
+      "commit": "fa5cf5f5b4273c97ed286a55747106701ddc9917",
+      "tag": "",
+      "parsed_at": "2026-10-28T12:55:56.096169+00:00"
+    }
+  ]
+}
