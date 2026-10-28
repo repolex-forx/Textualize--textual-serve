@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/Textualize/textual-serve/commit/fa5cf5f5b4273c97ed286a55747106701ddc9917",
       "git:hexsha": "fa5cf5f5b4273c97ed286a55747106701ddc9917",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/Textualize/textual-serve/commit/52a852659ad9e5eb900e7a0353e8ae27942e705d",
